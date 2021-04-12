@@ -1,1 +1,3 @@
 Simulando conflito 12/04.
+
+Arquivo alterado no computador no dia 12/04.
