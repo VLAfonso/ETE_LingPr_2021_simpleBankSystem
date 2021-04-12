@@ -1,1 +1,2 @@
-Linha alterda no Gihub do navegador.
+Linha alterda no Gihub do navegador na aula do dia 12/04.
+Simulando conflito no navegador
